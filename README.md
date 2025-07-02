@@ -1,3 +1,5 @@
+You can view the embedded content directly on Notion here: [OpenTofu User Guide (Notion)](https://plain-son-12d.notion.site/ebd/223839cd91d68076a65dd6100cace3b1)
+
 # OpenTofu User Guide for Windows: From Installation to Your First Project
 ## Table of Contents
 Introduction
